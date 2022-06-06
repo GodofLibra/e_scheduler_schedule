@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/announcementFragment"
+        android:icon="@drawable/ic_icons8_announcement_64"
+        android:title="Add Announcement" />
+
+    <item
+        android:id="@+id/noticeFragment"
+        android:icon="@drawable/ic_icons8_notice_58"
+        android:title="Add notice" />
+
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/ic_round_person"
+        android:title="Profile" />
+</menu>

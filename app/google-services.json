@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374542368923",
+    "project_id": "assignment-2-19012021092",
+    "storage_bucket": "assignment-2-19012021092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374542368923:android:82002c135701aa5d49863e",
+        "android_client_info": {
+          "package_name": "com.example.e_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374542368923-sscnscrpbk73djsq0oohiao9crl4ajb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jktcOi0BI3mLXl92p2JTl9mh1-Okz0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374542368923-sscnscrpbk73djsq0oohiao9crl4ajb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
